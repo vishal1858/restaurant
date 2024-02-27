@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Janta Restaurant</title>
+    <title>Skylight Restaurant</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/index.css">
 </head>
@@ -22,7 +22,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php">Skylight Cafe</a>
+                <a class="navbar-brand" href="index.php">Skylight Restaurant</a>
             </div>
 
             <div class="collapse navbar-collapse" id="myNavbar">
@@ -89,7 +89,7 @@
     </div>
     <br>
     <div class="orderblock">
-        <h2>Feeling Hungry?</h2>
+        <h2>Feeling Hungry</h2>
         <center><a class="btn btn-success btn-lg" href="customerlogin.php" role="button">Order Now</a></center>
     </div>
 

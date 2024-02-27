@@ -12,7 +12,7 @@ unset($_SESSION["cart"]);
 <html>
 
   <head>
-    <title> Cart | Skylight Cafe' </title>
+    <title> Cart | Skylight Restaurant' </title>
   </head>
 
   <link rel="stylesheet" type = "text/css" href ="css/COD.css">
